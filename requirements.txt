@@ -1,0 +1,6 @@
+streamlit
+pypdf
+certifi
+python-dotenv
+anthropic
+openai
