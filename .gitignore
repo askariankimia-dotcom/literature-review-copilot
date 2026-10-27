@@ -1,0 +1,25 @@
+# Environment variables and secrets
+.env
+.env.*
+
+# Databases and user research data
+*.db
+*.sqlite
+*.sqlite3
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+
+# Logs
+*.log
+.doctoral_literature_clean_start_v1
